@@ -1,6 +1,6 @@
 # Face-Recognition <br>
 
-  <h4>File #1: Finding the number of faces in a particular image </h4>
+  <h4>Folder #1: Finding the number of faces in a particular image </h4>
   <b>Input:</b> an Image with faces <br>
   <b>Output:</b> an Image of each of the faces in the picture followed by the number of faces detected.
 
